@@ -11,6 +11,11 @@
     const el = document.createElement('pwa-update');
     document.body.appendChild(el);
   </script>
+  <script>
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('pwabuilder-sw.js')
+  }
+  </script>
 </head>
 
  <div id="heading" contenteditable="true"></div>
