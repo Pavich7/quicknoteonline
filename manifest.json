@@ -6,7 +6,7 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "QuickNote",
-  "start_url": "/app/quicknote/index.html",
+  "start_url": "/quicknoteonline/index.html",
   "theme_color": "#ffffff",
   "icons": [
     {
