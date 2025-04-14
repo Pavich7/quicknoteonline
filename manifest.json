@@ -22,11 +22,13 @@
       "purpose": "any"
     }
   ],
-  "screenshots" : [
+  "screenshots": [
     {
       "src": "images/scrsht1.png",
       "sizes": "1920x1080",
       "type": "image/png"
     }
-  ]
+  ],
+  "description": "Evolved from QuickNote to QuickNote Online\nFast, Secure &amp; Easy to use\nAll notes are saved into your browser local storage and never share with PavichDev.",
+  "lang": "en"
 }
